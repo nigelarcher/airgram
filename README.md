@@ -23,7 +23,7 @@ ___
 
 ## Installation
 **Node.js**
-1. Build TDLib library according the [instruction](https://github.com/tdlib/td#building).
+1. Build TDLib library according the [instruction](https://github.com/tdlib/td#building) or [their language specific instruction page](https://tdlib.github.io/td/build.html?language=JavaScript).
 2. Install [node-gyp](https://github.com/nodejs/node-gyp#installation)
 3. Install Airgram:
 ```bash
